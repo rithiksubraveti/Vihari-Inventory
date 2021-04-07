@@ -1,0 +1,247 @@
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Vihari Inventory.exe.config
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Vihari Inventory.exe
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Vihari Inventory.pdb
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.HomeScreen.resources
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.Properties.Resources.resources
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.csproj.GenerateResource.cache
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.csproj.CoreCompileInputs.cache
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.exe
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.pdb
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.ProductsMasterScreen.resources
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.ProductsSalesCodeScreen.resources
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.SuppliersScreen.resources
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.CustomerDetailsScreen.resources
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.PurchasesScreen.resources
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.SalesScreen.resources
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.csproj.CopyComplete
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\EnvDTE.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.Build.Framework.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\stdole.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\EnvDTE80.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\VSLangProj.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\VSLangProj80.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Newtonsoft.Json.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.MSXML.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\VSLangProj2.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.exe.config
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.PurchaseRegister.resources
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.StockReport.resources
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.SalesReports.resources
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.SuppliersList.resources
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.CustomersList.resources
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.ProductWiseReports.resources
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.csprojAssemblyReference.cache
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Vihari Inventory.exe.manifest
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\Vihari Inventory.application
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.exe.manifest
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.application
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\itextsharp.dll
+D:\Chenchal .Net Files\Vihari Software\Vihari Inventory\Vihari Inventory\bin\Debug\itextsharp.xml
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.csprojAssemblyReference.cache
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.exe.config
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.CustomerDetailsScreen.resources
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.HomeScreen.resources
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.ProductsMasterScreen.resources
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.ProductsSalesCodeScreen.resources
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.Properties.Resources.resources
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.PurchasesScreen.resources
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.SalesScreen.resources
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.SuppliersScreen.resources
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.csproj.GenerateResource.cache
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.csproj.CoreCompileInputs.cache
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.exe
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.pdb
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\VihariDatabase.mdb
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Vihari Inventory.exe.config
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Vihari Inventory.exe.manifest
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Vihari Inventory.application
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Vihari Inventory.exe
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Vihari Inventory.pdb
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\itextsharp.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\EnvDTE.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.Build.Framework.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\stdole.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\EnvDTE80.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\VSLangProj.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\VSLangProj80.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Newtonsoft.Json.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.MSXML.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\VSLangProj2.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\itextsharp.xml
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vihari Inventory\Vihari Inventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.exe.manifest
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.application
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari Inventory.csproj.CopyComplete
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.MaterialMasterScreen.resources
+E:\Vihari Inventory\Vihari Inventory\obj\Debug\Vihari_Inventory.MaterialPurchasesScreen.resources
